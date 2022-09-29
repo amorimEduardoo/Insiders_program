@@ -96,6 +96,8 @@ As a result of this project, the delivery of a list of people eligible to partic
 - Build and test the architecture in the AWS environment, through S3, EC2 and RDS.
 - Build and validate the dashboard in Metabase.
 
+![ffdfdfdfdf](https://user-images.githubusercontent.com/105643907/193111797-d372173f-e81a-400b-9e2f-23c33614c3c8.jpg)
+
 
 
 # Top Data Insights
@@ -103,7 +105,6 @@ As a result of this project, the delivery of a list of people eligible to partic
 **H1: Customers in the Insiders cluster have a number of returns below the average of the total customer base.** 
 
 **False**: The average of the returns from the insider cluster is: 107.00. The total base average is: 31.00.
-
 
 
 **H2: Insiders cluster customers have a volume (turnover) of purchases above 20% of total purchases.**
